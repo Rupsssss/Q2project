@@ -12,7 +12,8 @@ public class Main {
                 text = new JLabel("Today's To Do List: ");
                 text.setBounds(125,50,300,20);
 
-                //checkboxes
+
+                //checkboxes fun!
                 JCheckBox checkBox1 = new JCheckBox("Math homework");
                 checkBox1.setBounds(120,100,150,20);
                 System.out.println(checkBox1.isSelected());
